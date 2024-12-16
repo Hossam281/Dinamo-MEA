@@ -76,7 +76,7 @@ src/
 1. **API Integration**
    - Used JSONPlaceholder API for demonstration purposes
    - Implemented mock POST/PUT/DELETE operations (JSONPlaceholder doesn't actually modify data)
-   - Added loading states and error handling for API operations
+   - Added error handling for API operations
 
 2. **UI/UX Decisions**
    - Implemented pagination with 10 items per page for better performance
@@ -94,7 +94,7 @@ src/
 1. **API Limitations**
    - JSONPlaceholder is a read-only API, so mutations are simulated
    - Implemented optimistic updates for better user experience
-   - Edit will not work for newlyy added data 
+   - Edit will not work for newly added data 
 
 2. **Form Validation**
    - Created custom validation logic for form inputs
