@@ -36,7 +36,7 @@ git clone <repository-url>
 
 2. Navigate to the project directory:
 ```bash
-cd react-posts-management
+cd Dinamo-MEA
 ```
 
 3. Install dependencies:
