@@ -112,3 +112,7 @@ src/
 
 The project took approximately 6 hours
 
+## Live Demo 
+
+https://dinamo-mea-omega.vercel.app/
+
